@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Zosma Labs</title><desc id="desc">Ideias transformadas em software.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#070A10"/><stop offset=".55" stop-color="#0B1220"/><stop offset="1" stop-color="#100B20"/></linearGradient>
+ <linearGradient id="z" x1="80" y1="55" x2="270" y2="250" gradientUnits="userSpaceOnUse"><stop stop-color="#21D4FD"/><stop offset=".53" stop-color="#1677FF"/><stop offset="1" stop-color="#7A20FF"/></linearGradient>
+ <linearGradient id="line" x1="350" y1="0" x2="1080" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#21D4FD"/><stop offset=".55" stop-color="#1677FF"/><stop offset="1" stop-color="#7A20FF"/></linearGradient>
+</defs>
+<rect width="1200" height="300" rx="26" fill="url(#bg)"/><circle cx="1080" cy="-20" r="180" fill="#1677FF" opacity=".07"/><circle cx="1140" cy="310" r="220" fill="#7A20FF" opacity=".06"/>
+<g transform="translate(35 0) scale(.52)" fill="url(#z)"><path d="M83 171C139 102 248 82 390 108L277 173C205 147 139 148 83 171Z"/><path d="M407 119C342 184 280 245 222 302C180 343 145 376 108 394C87 405 70 402 62 388C54 373 63 350 84 326C165 236 272 166 407 119Z"/><path d="M107 398C169 405 254 393 343 351L418 410C292 427 183 424 107 398Z"/><path d="M309 283C337 274 355 254 364 223C371 255 390 275 420 283C390 291 372 311 364 343C355 311 337 291 309 283Z"/></g>
+<text x="345" y="127" fill="#F5F7FA" font-family="Montserrat,Arial,sans-serif" font-size="70" font-weight="700" letter-spacing="10">ZOSMA LABS</text><rect x="350" y="153" width="640" height="3" rx="2" fill="url(#line)"/><text x="350" y="205" fill="#AAB4C4" font-family="Arial,sans-serif" font-size="26">Ideias transformadas em software.</text><text x="350" y="242" fill="#718096" font-family="Arial,sans-serif" font-size="18">SOFTWARE  •  PLUGINS  •  FERRAMENTAS</text>
+</svg>
