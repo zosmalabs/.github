@@ -16,56 +16,45 @@
 
 ## Produtos open source
 
-### Fundos por Culto
-**Automação de fundos da Bíblia para o SPresenter.**  
-Perfis, setlists e programação trabalham juntos para selecionar automaticamente a mídia certa para cada culto.
+<a href="https://github.com/zosmalabs/fundos-por-culto-spresenter"><img src="./assets/fundos-por-culto.svg" alt="Fundos por Culto" width="100%" /></a>
 
-`SPresenter` `Windows` `macOS` `Gratuito`
+Automatiza os fundos da Bíblia no SPresenter por **perfil, setlist ou programação**, deixando cada culto pronto sem troca manual de tema.
 
 [Repositório](https://github.com/zosmalabs/fundos-por-culto-spresenter) · [Tutorial](https://youtu.be/tORfqEOUnok)
 
----
+<br />
 
-### Importador de Vídeos
-**Vídeos da internet direto para a biblioteca do SPresenter.**  
-Pesquisa, download e importação com processamento local de mídia e suporte a Windows e macOS.
+<a href="https://github.com/zosmalabs/importador-videos-spresenter"><img src="./assets/importador-videos.svg" alt="Importador de Vídeos" width="100%" /></a>
 
-`SPresenter` `Windows` `macOS` `Gratuito`
+Pesquisa, baixa e importa vídeos para o SPresenter com **processamento local de mídia** e suporte a Windows e macOS.
 
 [Repositório](https://github.com/zosmalabs/importador-videos-spresenter) · [Tutorial](https://youtu.be/kxIf_o-fvas)
 
----
+<br />
 
-### Fundos Para Letras
-**Fundos independentes e personalizáveis para linhas de letras.**  
-Controle de cor, opacidade, espaçamento, bordas e arredondamento integrado ao SPresenter.
+<a href="https://github.com/zosmalabs/fundos-para-letras-spresenter"><img src="./assets/fundos-para-letras.svg" alt="Fundos Para Letras" width="100%" /></a>
 
-`SPresenter` `Open source` `Gratuito`
+Cria fundos independentes e personalizáveis para linhas de letras, com controles de **cor, opacidade, espaçamento, borda e arredondamento**.
 
 [Repositório](https://github.com/zosmalabs/fundos-para-letras-spresenter)
 
----
+<br />
 
-### Zosma Transmitter
-**Transmissão NDI portátil para Windows.**  
-Compartilhe monitor ou janela com vídeo e áudio, modos de proteção, privacidade e opções de desempenho — sem transformar a máquina transmissora em uma estação complexa.
+<a href="https://github.com/zosmalabs/zosma-transmitter"><img src="./assets/zosma-transmitter.svg" alt="Zosma Transmitter" width="100%" /></a>
 
-`Windows` `NDI` `Beta` `Gratuito`
+Transmissão NDI portátil de monitor ou janela, com **vídeo, áudio, modos de proteção, privacidade e opções de desempenho**.
 
 [Repositório](https://github.com/zosmalabs/zosma-transmitter)
 
 ---
 
-## Multitrack Tools
+## Produto em destaque
 
-> **Produto comercial da Zosma Labs · REAPER**
+<a href="https://zosma.com.br/multitrack-tools/"><img src="./assets/multitrack-tools.svg" alt="Multitrack Tools — Seu playback. Seu setlist. Tudo sob controle." width="100%" /></a>
 
-### Seu playback. Seu setlist. Tudo sob controle.
+Uma central de controle para **REAPER** voltada a playback ao vivo, com setlists, regiões, loops, pads, click, alteração de tom, cifras, projeção, automações, MIDI e controle web em uma única ferramenta.
 
-Uma central de controle para playback ao vivo com **setlists, regiões, loops, pads, click, alteração de tom, cifras, projeção, automações, MIDI e controle web** em uma única ferramenta.
-
-**Windows · macOS · Linux**  
-Licença vitalícia · 1 máquina · Atualizações incluídas
+**Windows · macOS · Linux** · Licença vitalícia · 1 máquina · Atualizações incluídas
 
 [**Conhecer o Multitrack Tools →**](https://zosma.com.br/multitrack-tools/)
 
